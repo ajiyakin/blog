@@ -9,9 +9,9 @@ layout: default
   {{ page.title }}
 </h1>
 <p>
-{{ page.date | date_to_string }} |
+{{ post.date | date_to_string }} |
 Categories:
-{% for categori on page.categories %}
+{% for categori on posts.categories %}
   {{ categori }}
 {% endfor %}
 </p>
