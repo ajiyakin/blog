@@ -12,8 +12,8 @@ title: {{ site.name }}
     {{ post.title }}
   </h3>
 
-  {{ post.content | split:'<!-- break -->' | first }}...
-  {% if post.content contains '<!-- break -->' %}
+  {{ post.content | split:'<!-- readmore -->' | first }}...
+  {% if post.content contains '<!-- readmore -->' %}
     <p style="text-align:right;">
       <a href="{{ site.baseurl }}{{ post.url }}">
         Readmore...
