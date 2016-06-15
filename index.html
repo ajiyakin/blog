@@ -15,7 +15,7 @@ title: {{ site.name }}
   {{ post.content | split:'<!-- break -->' | first }}
   {% if post.content contains '<!-- break -->' %}
     <p style="text-align:right;">
-      <a class="readmore" href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         Readmore...
       </a>
     </p>
