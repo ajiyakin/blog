@@ -9,4 +9,4 @@ author:
   name:       AjiYakin
   url:        http://blog.ajiyakin.com
 
-permalink: pretty
+permalink: /:year/:month/:day/:title/
