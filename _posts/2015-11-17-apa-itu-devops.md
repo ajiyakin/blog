@@ -3,9 +3,6 @@ layout: post
 title:  "Apa Itu DevOps"
 date:   2015-11-17 19:21:00
 categories: DevOps
-comments: true
-disqus_id: apa-itu-devops
-tags: [sotware delivery, devops, automation, programming]
 ---
 
 
@@ -14,6 +11,7 @@ Awalnya saya agak mengkerutkan dahi ketika _lead_ programmer saya bilang
 enteng". Segera setelah itu, (masih didepan _lead_ saya) langsung saya buka
 _browser_ terus masukkin keyword "Ansible". Haha, ternyata saya baru sadar
 kalo saya hidup dalam "kardus".
+<!-- readmore -->
 
 
 Gak lama kemudian _lead_ saya langsung bilang "coba kamu cari-cari tentang

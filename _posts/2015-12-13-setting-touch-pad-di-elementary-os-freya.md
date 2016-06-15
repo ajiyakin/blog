@@ -3,9 +3,6 @@ layout: post
 title:  "Setting Touch-Pad di Elementary OS Freya"
 date:   2015-12-13 02:44:00
 categories: utility
-comments: true
-disqus_id: setting-touch-pad-di-elementary-os-freya
-tags: [elementary, driver, touchegg, touchpad, linux]
 ---
 
 Kebetulan 2 minggu yang lalu saya beli laptop baru dan... ya biasa, instalasi
@@ -13,6 +10,7 @@ dan ya gitu, melakukan beberapa setting supaya lebih 'gue banget'. Kebetulan
 juga (banyak kebetulannya) saya liat video macbook yang 'nggeser workspacenya
 enak banget pake 4 jari, srettt... Walhasil, sayapun jadi _kabita_ dan
 langsung nyari-nyari tools apa yang bisa saya pake.
+<!-- readmore -->
 
 
 Okeh, akhirnya ada beberapa tools yang ternyata bisa saya gunakan untuk
