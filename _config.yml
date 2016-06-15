@@ -1,17 +1,10 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+title:        Aji's Blog
+tagline:      Just my blog.
+baseurl:      "http://blog.ajiyakin.com"
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+  name:       AjiYakin
+  url:        http://blog.ajiyakin.com
