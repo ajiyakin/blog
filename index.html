@@ -6,9 +6,8 @@ title: {{ site.name }}
 {% for post in site.posts %}
   <h3>
     <a id="welcome-to-github-pages" class="anchor" href="{{ site.baseurl }}{{ post.url }}" aria-hidden="true">
-      <span aria-hidden="true" class="octicon octicon-link"></span>
+      {{ post.title }}
     </a>
-    {{ post.title }}
   </h3>
 {% endfor %}
 
