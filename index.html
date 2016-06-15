@@ -12,7 +12,7 @@ title: {{ site.name }}
     {{ post.title }}
   </h3>
 
-  {{ post.content | split:'<!-- break -->' | first }}
+  {{ post.content | split:'<!-- break -->' | first }}...
   {% if post.content contains '<!-- break -->' %}
     <p style="text-align:right;">
       <a href="{{ site.baseurl }}{{ post.url }}">
