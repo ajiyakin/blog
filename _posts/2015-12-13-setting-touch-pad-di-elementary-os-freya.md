@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting Touch-Pad di Elementary OS Freya"
+title:  "Setting Touch-Pad di Elementary OS Freya" - {{ site.title }}
 date:   2015-12-13 02:44:00
 categories: utility
 ---
