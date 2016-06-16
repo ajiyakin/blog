@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apa Itu DevOps - {{ site.title }}"
+title:  "Apa Itu DevOps"
 date:   2015-11-17 19:21:00
 categories: DevOps
 ---

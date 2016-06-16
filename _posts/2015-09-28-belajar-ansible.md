@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Belajar Ansible - {{ site.title }}"
+title:  "Belajar Ansible"
 date:   2015-09-21 18:31:00
 categories: Ansible
 ---
