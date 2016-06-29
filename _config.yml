@@ -9,3 +9,6 @@ author:
   url:        http://blog.ajiyakin.com
 
 permalink: /:year/:month/:day/:title/
+
+gems:
+  - jemoji
