@@ -1,12 +1,12 @@
 # Setup
 title:        Aji's Blog
 tagline:      Just my blog.
-baseurl:      "http://blog.ajiyakin.com"
+baseurl:      "http://ajiyakin.github.io/blog"
 
 # About/contact
 author:
   name:       AjiYakin
-  url:        http://blog.ajiyakin.com
+  url:        http://ajiyakin.github.io/blog
 
 permalink: /:year/:month/:day/:title/
 
