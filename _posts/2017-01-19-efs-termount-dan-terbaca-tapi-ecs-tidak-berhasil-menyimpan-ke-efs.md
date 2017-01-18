@@ -14,6 +14,7 @@ Tapi sebelum Saya ngasih tau alesan kenapa bisa kejadian seperti itu, dan
 menceritakan bagaimana Saya nge-fix masalah tersebut, ada baiknya Saya kasih
 gambaran umum dulu apa itu EFS, ECS dan AWS itu sendiri. Biar yang baca,
 meski pemula gak bingung :smile:
+<!-- readmore -->
 
 ## AWS (Amazon Web Service)
 Singkatnya ini services yang ditawarkan Amazon untuk para pengembang, terutama
