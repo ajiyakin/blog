@@ -55,7 +55,7 @@ di EFS yang ke-mount tersebut. Singkatnya gitu.
 
 ## Konfigurasi
 Konfigurasinya sebenarnya sudah berhasil ngikutin [ini](https://aws.amazon.com/blogs/compute/using-amazon-efs-to-persist-data-from-amazon-ecs-containers/).
-Cuma untuk lunch-configuration-nya, pake script yang sederhana, gak
+Cuma untuk launch-configuration-nya, pake script yang sederhana, gak
 seribet yang ditulis di blog tersebut, kayak gini:
 
 ```bash
@@ -104,7 +104,7 @@ bawah di script launch-configuration-nya, setelah nge-mount EFSnya:
 service docker restart && start ecs
 ```
 
-Versi lengkap launc-configuration-nya:
+Versi lengkap launch-configuration-nya:
 
 
 ```bash
@@ -123,8 +123,10 @@ mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=
 service docker restart && start ecs
 ```
 
-## Leason Learn
+## Lesson Learned
+
 ### Baca dokumentasi secara seksama
+
 Karena ternyata, di dokumentasinya ada notes, yang persis "menyinggung"
 masalah ini :smile:
 
