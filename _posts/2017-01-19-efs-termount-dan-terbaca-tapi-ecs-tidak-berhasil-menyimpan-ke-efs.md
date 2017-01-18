@@ -9,12 +9,12 @@ Seharian kemarin, berkutat sama AWS (lagi). Ya kan emang kerjaannya pake AWS :sm
 Ada hal yang aneh ketika cluster di ECS yang sudah saya set-up agar nge-mount
 EFS tidak bisa menulis ke EFS, ato singkatnya ECS tidak berhasil menulis data
 ke EFS.
+<!-- readmore -->
 
 Tapi sebelum Saya ngasih tau alesan kenapa bisa kejadian seperti itu, dan
 menceritakan bagaimana Saya nge-fix masalah tersebut, ada baiknya Saya kasih
 gambaran umum dulu apa itu EFS, ECS dan AWS itu sendiri. Biar yang baca,
 meski pemula gak bingung :smile:
-<!-- readmore -->
 
 ## AWS (Amazon Web Service)
 Singkatnya ini services yang ditawarkan Amazon untuk para pengembang, terutama
