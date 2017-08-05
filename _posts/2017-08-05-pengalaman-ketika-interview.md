@@ -42,6 +42,8 @@ mereka _(well, recruter mereka)_ yang mengundang Saya di inbox LinkedIn Saya,
 menyatakan bahwa Saya masuk kualifikasi mereka sebagai __senior web developer__.
 Sayapun kaget, _like, really...???_
 
+![LinkedIn Message Recruitment](http://blog.ajitea.com/images/LinkedinMessageTok.png)
+
 Saya iyakan saja, pikir Saya kenapa tidak Saya coba saja. Message selanjutnya
 recruiter minta kontak, Saya kasih dan mereka menawarkan untuk interview
 langsung atau bisa juga lewat video call. Perusahaan tersebut ada di Jakarta
