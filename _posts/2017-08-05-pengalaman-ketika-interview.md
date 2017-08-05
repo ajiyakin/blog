@@ -8,7 +8,7 @@ categories: Grumble
 Sebelum Saya menceritakan pengalaman melamar pekerjaan di cerita ini,
 akan lebih baik jika Saya menceritakan siapa Saya dan background Saya bagaimana.
 
-# Background
+## Background
 Saya lahir dari keluarga...
 
 Tapi kalo cerita dari lahir kejauhan juga kayaknya :smile:
@@ -16,8 +16,8 @@ Oke langsung ke pekerjaan pertama Saya ajah. Pekerjaan pertama Saya adalah
 seorang web developer, lebih spesifik lagi _backend web developer_ di salah satu
 perusahaan milik asing (PMA) di Yogyakarta, dan perlu diketahui ini adalah
 perusahaan software house. Pekerjaan sehari-hari Saya tidak jauh dari bikin
-REST, consume REST, consume SOAP, pake SDK AWS, ngurusin server di AWS dan
-tek-tek bengeknya.
+REST, consume REST, consume SOAP, pake [SDK AWS](https://aws.amazon.com/sdk-for-php/),
+ngurusin server di [AWS](https://aws.amazon.com/) dan tek-tek bengeknya.
 
 <!-- readmore -->
 
@@ -34,7 +34,7 @@ Namun dengan berbagai alasan, Saya harus kembali mencari pekerjaan lain
 diakhir bulan Juli, 2017 ini. Dan dari sinilah cerita-cerita yang menurut
 Saya aneh itu dimulai.
 
-# Diundang Interview dan di Reject
+## Diundang Interview dan di Reject
 Perusahaan pertama yang Saya lamar adalah salah satu start-up lokal,
 salah satu marketplace terbesar di Indonesia juga. Dan terus terang Saya
 sama sekali tidak mengajukan diri untuk melamar di perusahaan yang satu ini,
@@ -71,7 +71,7 @@ Sekitar 3 hari kemudian, email rejection masuk. Saya sendiri tidak kaget, karena
 pas interview-pun Saya sudah tidak berharap banyak setelah tahu Saya tidak
 mampu menyelesaikan challenge yang pertama pada saat interview.
 
-## Yang Bisa Saya Petik
+### Yang Bisa Saya Petik
 Beberapa hal yang Saya bisa petik dari pengalaman interview Saya diatas tadi:
 
 - Pastikan tahu interview-nya tentang interview apa
@@ -93,7 +93,7 @@ di perusahaan diatas tesebut:
 Terus terang, Saya agak kecewa tahu soal recruitment process di perusahaan
 tersebut, mengingat perusahaan tersebut bukan perusahaan kecil.
 
-# Coba Start-Up Luar Negeri
+## Coba Start-Up Luar Negeri
 Singkatnya, iseng-iseng Saya coba nyari kerjaan remote dari luar negeri,
 dan mendapatkan response dari salah satu start-up baru di California.
 Selang berapa hari, Saya dijadwalkan interview dini hari jam 3 yang sudah
@@ -102,11 +102,13 @@ pekerjaan Saya sekarang yang kemudian diakhir interview mereka minta Saya
 untuk menyelesaikan task untuk membuat back-end dan front-end untuk login page,
 termasuk halaman edit profile juga.
 
-Mereka minta Saya menggunakan Go (golang) sebagai back-end dan plain JavaScript,
-less with BEM untuk front-end nya. Terus terang, semua teknologi tersebut adalah
-baru buat Saya, karena sebelumnya Saya jarang mengerjakan front-end dipekerjaan
-sebelumya, Saya juga menggunakan PHP dipekerjaan sebelumnya, jadi Saya tidak
-terlalu banyak tahu soal Go (golang) selain belajar _Hello world_.
+Mereka minta Saya menggunakan [Go (golang)](https://golang.org/) sebagai
+back-end dan plain JavaScript, [Less](http://lesscss.org/) with
+[BEM](http://getbem.com) untuk front-end nya. Terus terang, semua teknologi
+tersebut adalah baru buat Saya, karena sebelumnya Saya jarang mengerjakan
+front-end dipekerjaan sebelumya, Saya juga menggunakan PHP dipekerjaan
+sebelumnya, jadi Saya tidak terlalu banyak tahu soal Go (golang) selain
+belajar _Hello world_.
 
 Selang 3 hari, Saya berhasil menyelesaikan test tersebut yang kemudian Saya
 kirimkan dan mereka menyukainya, terutama karena effort Saya yang masih sangat
@@ -120,7 +122,7 @@ akan menjadi hak proprietrary perusahaan. Jadi, Saya tidak bisa membantu
 sodara Saya mengerjakan web sekolah mereka. Jadi Saya pilih untuk tidak
 melanjutkannya.
 
-## Yang Bisa Saya Petik
+### Yang Bisa Saya Petik
 Beberapa hal yang Saya suka dari perekrutan start-up diatas:
 
 - Mereka melihat effort yang Saya lakukan, tidak hanya soal teknikal tapi juga
@@ -131,19 +133,21 @@ Beberapa hal yang Saya suka dari perekrutan start-up diatas:
   tiap interviewer tahu apa yang mereka lakukan. Saya hanya orang yang gampang
   nervous ketika interview, dan matematika Saya tidak terlalu bagus, jadi Saya
   tidak akan mencoba memaksakan diri untuk interview pada perusahaan yang
-  mengharuskan __kuat__ di matematika.
+  mengharuskan "kuat" di matematika.
 
 Adapun hal-hal yang tidak Saya sukai dari proses recruitment start-up tadi
 adalah, proses recruitment sangat lama, terutama soal atur schedule, padahal
 Saya selalu menyanggupi kapan saja mereka mau. Proses recruitment tadi memakan
-waktu sampai satu bulan, dan itu sangat-sangat membuat banyak waktu menurut
+waktu sampai satu bulan, dan itu sangat-sangat membuang banyak waktu menurut
 Saya.
 
-# End-up di Perusahaan Lokal Tanpa Tes
-Setelah beberapa (well, cuma dua :smile: ) interview diatas, Saya akhirnya
+## End-up di Perusahaan Lokal Tanpa Tes
+Setelah beberapa (cuma dua :smile: ) interview diatas, Saya akhirnya
 berhasil mendapatkan perusahaan kedua Saya, tanpa tes. Loh kok bisa?
-Singkat saja, Saya pernah menghadiri _coding dojo_ (semacam latihan koding)
-yang diadakan di perusahaan tersebut dan ketemu dengan branch-managernya yang
-kemudian Saya memberanikan diri untuk nyoba ngelamar dan cuma ngobrol,
+Singkat saja, Saya pernah menghadiri _Coding Dojo_ (semacam latihan koding)
+yang diadakan di perusahaan tersebut dan ketemu sama _lead_nya yang
+kemudian Saya memberanikan diri untuk nyoba ngelamar, cuma ngobrol,
 tanpa tes, dan akhirnya diterima. Jadi ini masih sekitar 1 minggu Saya
-diperusahaan kedua Saya. Semoga segalanya berjalan lancar.
+diperusahaan kedua Saya. Semoga segalanya berjalan lancar. Dan untuk yang
+sedang nyari kerjaan juga semangat, jangan nyerah, nyari kerja memang gak
+jauh beda sama nyari jodoh, harus sabar :thumbsup:
