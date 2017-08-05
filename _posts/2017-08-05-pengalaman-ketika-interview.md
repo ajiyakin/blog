@@ -8,7 +8,6 @@ categories: Grumble
 Sebelum Saya menceritakan pengalaman melamar pekerjaan di postingan ini,
 akan lebih baik jika Saya menceritakan siapa Saya dan background Saya apa
 serta bagaimana.
-
 <!-- readmore -->
 
 ## Background
