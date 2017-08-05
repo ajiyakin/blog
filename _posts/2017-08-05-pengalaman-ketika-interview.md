@@ -5,8 +5,11 @@ date:   2017-08-05 14:10:00
 categories: Grumble
 ---
 
-Sebelum Saya menceritakan pengalaman melamar pekerjaan di cerita ini,
-akan lebih baik jika Saya menceritakan siapa Saya dan background Saya bagaimana.
+Sebelum Saya menceritakan pengalaman melamar pekerjaan di postingan ini,
+akan lebih baik jika Saya menceritakan siapa Saya dan background Saya apa
+serta bagaimana.
+
+<!-- readmore -->
 
 ## Background
 Saya lahir dari keluarga...
@@ -18,8 +21,6 @@ perusahaan milik asing (PMA) di Yogyakarta, dan perlu diketahui ini adalah
 perusahaan software house. Pekerjaan sehari-hari Saya tidak jauh dari bikin
 REST, consume REST, consume SOAP, pake [SDK AWS](https://aws.amazon.com/sdk-for-php/),
 ngurusin server di [AWS](https://aws.amazon.com/) dan tek-tek bengeknya.
-
-<!-- readmore -->
 
 Bagaimana Saya tiba di pekerjaan pertama Saya cukup simple, Saya melamar,
 kemudian mengerjakan beberapa test online dan interview secara online juga
