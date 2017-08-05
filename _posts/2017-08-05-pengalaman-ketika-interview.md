@@ -39,10 +39,10 @@ Perusahaan pertama yang Saya lamar adalah salah satu start-up lokal,
 salah satu marketplace terbesar di Indonesia juga. Dan terus terang Saya
 sama sekali tidak mengajukan diri untuk melamar di perusahaan yang satu ini,
 mereka _(well, recruter mereka)_ yang mengundang Saya di inbox LinkedIn Saya,
-menyatakan bahwa Saya masuk kualifikasi mereka sebagai __senior web developer__.
-Sayapun kaget, _like, really...???_
+menyatakan bahwa Saya masuk kualifikasi mereka sebagai
+__senior software engineer__. Sayapun kaget, _like, really...???_
 
-![LinkedIn Message Recruitment](http://blog.ajitea.com/images/LinkedinMessageTok.png)
+![LinkedIn Message Recruitment](http://blog.ajitea.com/images/LinkedinMessage.png)
 
 Saya iyakan saja, pikir Saya kenapa tidak Saya coba saja. Message selanjutnya
 recruiter minta kontak, Saya kasih dan mereka menawarkan untuk interview
@@ -72,6 +72,8 @@ secara real-time, Saya juga coba jawab dengan sebisa Saya.
 Sekitar 3 hari kemudian, email rejection masuk. Saya sendiri tidak kaget, karena
 pas interview-pun Saya sudah tidak berharap banyak setelah tahu Saya tidak
 mampu menyelesaikan challenge yang pertama pada saat interview.
+
+![LinkedIn Message Recruitment](http://blog.ajitea.com/images/RejectionEmail.png)
 
 ### Yang Bisa Saya Petik
 Beberapa hal yang Saya bisa petik dari pengalaman interview Saya diatas tadi:
