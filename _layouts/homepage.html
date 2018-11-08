@@ -34,14 +34,11 @@
 
     <main id="content" class="main-content" role="main">
 
-      <h2>Posts</h2>
       {% for post in site.posts %}
-        <a href="/blog{{ post.url }}"><h3>{{ post.title }}</h3></a>
+        <a href="/blog{{ post.url }}"><h2>{{ post.title }}</h2></a>
         {{ post.excerpt }}
         <a href="/blog{{ post.url }}">Read more...</a>
       {% endfor %}
-      
-      {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
