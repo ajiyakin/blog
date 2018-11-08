@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: AjiYakin Blog
 description: Thoughts, notes, etc.
+
+excerpt_separator: <!--more-->
