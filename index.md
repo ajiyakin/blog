@@ -12,14 +12,10 @@ teknologi ini. Jadi saya fikir, daripada saya belajar sendiri mending saya
 sekalian _share_, paling tidak ini jadi catatan saya ketika saya lupa.
 <!-- readmore -->
 
-
-### Kenapa harus diotomatisasi? Manual juga masih bisa kan? Toh cuma mindahin _source code_ doang to?
+#### Kenapa harus diotomatisasi? Manual juga masih bisa kan? Toh cuma mindahin _source code_ doang to?
 Mmmm... Coba baca kebawah dulu deh :worried:
 
------------------------------------------------------------------------------
-
-
-## Proses _Deployment_ Aplikasi
+### Proses _Deployment_ Aplikasi
 Proses deployment aplikasi disetiap perusahaan IT memang biasanya berbeda-beda,
 tergantung kebijakan dan infrastruktur yang dipilih. Namun demikian, ide dari
 proses deployment tersebut 'cenderung' sama yaitu dimulai dari pemindahan
@@ -35,7 +31,7 @@ itu, apa tidak malah jadi merepotkan? Belum lagi kalau servernya banyak
 gimana?
 
 
-### Sebentar, lalu apa itu _DevOps_ (lebih tepatnya "siapa")?
+#### Sebentar, lalu apa itu _DevOps_ (lebih tepatnya "siapa")?
 Ok, pertanyaan ini sama juga pernah muncul dikepala saya, dari [DevOps]
 sendiri kata ini terdiri dari dua suku kata yaitu _Dev_ dan _Ops_ itu sendiri.
 _Dev_ untuk _Development_ (gak tahu deh, _development_ atau _developer_
@@ -71,7 +67,7 @@ Ok, sekarang saya (maksud saya pembaca) mulai faham. Lalu selanjutnya apa?
 -----------------------------------------------------------------------------
 
 
-## Apa Itu _Ansible_?
+### Apa Itu _Ansible_?
 Saya sudah menjabarkan masalah diatas, jadi _simple_-nya ya _Ansible_ itu
 membantu (atau bahkan mengganti) peran situkang _upload source code_ tadi itu.
 
@@ -80,7 +76,7 @@ Sudah, itu saja, kebanyakan teori malah jadi bosan nanti.
 -----------------------------------------------------------------------------
 
 
-## Cara Kerja _Ansible_
+### Cara Kerja _Ansible_
 Mmm... Sederhana saja, saya sudah mau ke praktek ya.
 
 
@@ -93,16 +89,16 @@ _library_ [Python], tapi ya ujung-ujungnya, pake SSH itu tadi :smile:.
 
 -----------------------------------------------------------------------------
 
-## Praktek
+### Praktek
 
 
-### Sudah install _Ansible_?
+#### Sudah install _Ansible_?
 Sebenarnya saya lupa untuk membuat postingan tentang cara instalasi _Ansible_
 sendiri :smile:. Untuk sementara silahkan merujuk ke halaman dokumentasinya
 [disini].
 
 
-### File configurasi (default) _Ansible_.
+#### File configurasi (default) _Ansible_.
 Letak file-file configurasi _Ansible_ sebenarnya berbeda-beda, tergantung
 _environment_ yang digunakan biasanya. Tapi, karena saya pake [Ubuntu], jadi
 saya hanya akan menuliskan yang saya tahu saja :cry:.
@@ -126,7 +122,7 @@ eksekusi perintah tersebut seperti ini:
         hosts
 
 
-#### File `ansible.cfg`
+##### File `ansible.cfg`
 File ini berisi konfigurasi utama _ansible_ dimana secara default, jika kita
 tidak menggunakan file konfigurasi kita sendiri atau tidak mendeklarasikannya
 secara langsung di _command-line_. Urutan dari file konfigurasi yang akan
@@ -143,12 +139,12 @@ digunakan oleh _ansible_ adalah
   biasanya di `/etc/ansible/`.
 
 
-#### File `hosts`
+##### File `hosts`
 File ini berisi konfigurasi _server_ yang akan kita lakukan konfigurasi. Secara
 default, file ini tidak berisi apa-apa, kecuali contoh saja.
 
 
-### Perintah sederhana, _Ad-Hoc command_
+#### Perintah sederhana, _Ad-Hoc command_
 Sebelum kita bisa melakukan perintah sederhana ini, kita harus punya _server_
 yang akan kita konfigurasi dulu, untuk demo atau praktek biasanya saya
 menggunakan [VirtualBox] dan sejenisnya. Dan __pastikan sudah bisa dan sukses
