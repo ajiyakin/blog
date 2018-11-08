@@ -16,7 +16,7 @@ Dikantor, kebetulan sedang ada _issue_ tentang _DevOps_, lebih spesifik lagi
 _tools_/teknologi yang dipake adalah _Ansible_, jadinya saya penasaran dengan
 teknologi ini. Jadi saya fikir, daripada saya belajar sendiri mending saya
 sekalian _share_, paling tidak ini jadi catatan saya ketika saya lupa.
-<!--more-->
+<!-- readmore -->
 
 
 ### Kenapa harus diotomatisasi? Manual juga masih bisa kan? Toh cuma mindahin _source code_ doang to?
