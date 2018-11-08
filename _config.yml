@@ -3,3 +3,4 @@ title: AjiYakin Blog
 description: Thoughts, notes, etc.
 
 excerpt_separator: <!--more-->
+permalink: /:year/:month/:day/:title/
