@@ -38,6 +38,7 @@
       {% for post in site.posts %}
         <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
         {{ post.excerpt }}
+        <a href="{{ post.url }}">Read more...</a>
       {% endfor %}
       
       {{ content }}
