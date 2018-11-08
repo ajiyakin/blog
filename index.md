@@ -64,16 +64,12 @@ _development_ atau _test environment_ ke _live environment_.
 
 Ok, sekarang saya (maksud saya pembaca) mulai faham. Lalu selanjutnya apa?
 
------------------------------------------------------------------------------
-
 
 ### Apa Itu _Ansible_?
 Saya sudah menjabarkan masalah diatas, jadi _simple_-nya ya _Ansible_ itu
 membantu (atau bahkan mengganti) peran situkang _upload source code_ tadi itu.
 
 Sudah, itu saja, kebanyakan teori malah jadi bosan nanti.
-
------------------------------------------------------------------------------
 
 
 ### Cara Kerja _Ansible_
@@ -86,8 +82,6 @@ Pernah pake [SSH]? Kalo belum tahu silahkan baca-baca dulu deh apa itu SSH!
 _Ansible_ make SSH. Untuk proses yang lebih kompleks lagi _Ansible_ pake
 _library_ [Python], tapi ya ujung-ujungnya, pake SSH itu tadi :smile:.
 
-
------------------------------------------------------------------------------
 
 ### Praktek
 
@@ -184,8 +178,6 @@ subjudul ditulis "perintah sederhana"?
 
 Ya, tentu, karena kita belum melakukan konfigurasi apapun. Itu kenapa
 di subjudulnya saya masukkan kata [Ad-Hoc].
-
------------------------------------------------------------------------------
 
 
 [DevOps]: http://devops.com/2014/01/26/defining-the-dev-and-the-ops-in-devops/
