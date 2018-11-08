@@ -1,2 +1,0 @@
-# blog
-Aji's Blog
