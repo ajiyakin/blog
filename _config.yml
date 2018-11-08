@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: AjiYakin Blog
 description: Thoughts, notes, etc.
-baseurl: "https://ajiyakin.github.io/blog"
+baseurl: /
 
 excerpt_separator: <!--more-->
 permalink: /:year/:month/:day/:title
