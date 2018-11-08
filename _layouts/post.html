@@ -21,8 +21,8 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ post.title | default: site.title }}</h1>
-      <h2 class="project-tagline">{{ post.date }}</h2>
+      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+      <h2 class="project-tagline">{{ page.date | date_to_string }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
