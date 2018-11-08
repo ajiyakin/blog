@@ -3,5 +3,5 @@ title: AjiYakin Blog
 description: Thoughts, notes, etc.
 baseurl: /
 
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- readmore -->
 permalink: /:year/:month/:day/:title
