@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title:
+title: Home
 ---
 
 # Posts
