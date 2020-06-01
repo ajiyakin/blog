@@ -49,6 +49,8 @@ Saya coba lihat versi kernel Linux terakhir, ternyata yang terakhir dirilis
 (versi stable) adalah `5.6.14` sementara yang terinstall di komputer Saya
 adalah `5.3`. Ya sudah Saya putuskan coba install yang terakhir tersebut.
 
+![Latest Linux Kernel Version](images/2020-06-01-gagal-shutdown-lenovo-flex-ubuntu-18.04-kernel-5.3_kernel_latest_version.png)
+
 Cara installnya Saya ikutin langkah-langkahnya sesuai yang ada di sini:
 
 [https://www.tecmint.com/upgrade-kernel-in-ubuntu/](https://www.tecmint.com/upgrade-kernel-in-ubuntu/)
