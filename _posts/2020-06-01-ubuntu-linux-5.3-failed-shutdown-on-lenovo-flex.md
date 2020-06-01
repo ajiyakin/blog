@@ -8,7 +8,7 @@ categories: Troubleshot
 Setelah sekitar hampir 2 minggu yang lalu pas buka tas dan lihat laptop
 masih nyala, agak heran juga karena gak biasanya linux kayak gini,
 dulu pernah ngamalin (sekitar 5-6 tahun lalu) tapi itu di Windows bukan
-Linux. Baru setelah satu minggu ada waktu buat lakuin research karena
+Linux. Baru setelah satu minggu ada waktu buat start lakuin research karena
 harus ngurus ini itu dulu (momen idul fitri) ketahuan lah penyebabnya
 kenapa, itupun setelah 1 minggu research juga :)
 
