@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gagal Shutdown Linux Kernel 5.3 di Lenovo Flex 14"
+title:  "Gagal Shutdown di Lenovo Flex 14 dengan Linux Kernel 5.3 (Ubuntu 18.04)"
 date:   2020-06-01 08:15:00
 categories: Troubleshot
 ---
