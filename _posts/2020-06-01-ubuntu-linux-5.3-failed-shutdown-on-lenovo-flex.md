@@ -21,9 +21,9 @@ Saya itu ada bug yang entah bagaimana gagal membunuh semua proses yang
 jalan di komputer Saya tersebut. Berikut referensi yang berkaitan dengan
 masalah ini:
 
-- https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1594023
-- https://askubuntu.com/questions/125844/shutdown-does-not-power-off-computer
-- https://unix.stackexchange.com/questions/457967/shutdown-does-not-power-off-why
+- [https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1594023](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1594023)
+- [https://askubuntu.com/questions/125844/shutdown-does-not-power-off-computer](https://askubuntu.com/questions/125844/shutdown-does-not-power-off-computer)
+- [https://unix.stackexchange.com/questions/457967/shutdown-does-not-power-off-why](https://unix.stackexchange.com/questions/457967/shutdown-does-not-power-off-why)
 
 Untuk fix, ada dua solusi yang Saya temukan dari deretan resource diatas,
 nambah `acpi=force` di grub pada saat linux dijalankan, dan yang kedua
@@ -51,7 +51,7 @@ adalah `5.3`. Ya sudah Saya putuskan coba install yang terakhir tersebut.
 
 Cara installnya Saya ikutin langkah-langkahnya sesuai yang ada di sini:
 
-https://www.tecmint.com/upgrade-kernel-in-ubuntu/
+[https://www.tecmint.com/upgrade-kernel-in-ubuntu/](https://www.tecmint.com/upgrade-kernel-in-ubuntu/)
 
 Kurang lebih download file berikut
 
@@ -62,17 +62,18 @@ linux-image-unsigned-5.6.14-050614-generic_5.6.14-050614.202005200733_amd64.deb
 linux-modules-5.6.14-050614-generic_5.6.14-050614.202005200733_amd64.deb
 ```
 
-dari sini: https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.6.14/
+dari sini: [https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.6.14/](https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.6.14/)
 
 Setelah itu install semua file tersebut dengan perintah: `sudo dpkg -i *.deb`
 
-	Catatan:
-	
-	Pada saat nginstall, ada warning, kurang lebih warningnya mengatakan
-	bahwa ada beberapa firmware yang hilang dibawah folder `/lib/firmware/amdgpu/`.
-	Salah satu firmware yang hilang adalah `navi12_asd.bin` tapi setelah Saya coba
-	cari-cari di repo firmware linuxnya gak nemu, akhirnya tidak Saya hiraukan
-	warning tersebut, walhasil tetep jalan kok :smile:
+> Catatan:
+>
+> Pada saat nginstall, ada warning, kurang lebih warningnya mengatakan
+> bahwa ada beberapa firmware yang hilang dibawah folder `/lib/firmware/amdgpu/`.
+> Salah satu firmware yang hilang adalah `navi12_asd.bin` tapi setelah Saya coba
+> cari-cari di [repo firmware linuxnya](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/amdgpu)
+> gak nemu, akhirnya tidak Saya hiraukan warning tersebut, walhasil tetep
+> jalan kok :smile:
 
 Dan setelah langkah tersebut, reboot komputer dan setelah nyala lagi, pastiin
 kernel yang diinstall tadi sudah berhasil di load dengan command `uname -rs`,
