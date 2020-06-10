@@ -41,8 +41,8 @@ sadar tentang apa yang sebenarnya harus saya lakukan. Dan pastinya jadi lebih
 _less stress_.
 
 Kalo lagi ngomongin mencoba mengubah apa yang diluar kendali kita itu saya
-jadi teringat pepatah, saya sendiri lupa siapa yang mengatakannya
-yang jelas tokoh islam populer kalo tidak salah, pepatahnya seperti ini
+jadi teringat pepatah, saya sendiri lupa siapa yang mengatakannya,
+pepatahnya seperti ini
 
 > Ketika remaja, saya berusaha mengubah dunia. Ketika dewasa saya berusaha
 > mengubah lingkungan saya, dan sekarang saya hanya berusaha mengubah
