@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Harapan dan Kekecewaan - Mengatur Expektasimu"
+title:  "Harapan dan Kekecewaan - Mengatur Expektasi"
 date:   2020-06-10 06:00:00
 categories: Renungan
 ---
