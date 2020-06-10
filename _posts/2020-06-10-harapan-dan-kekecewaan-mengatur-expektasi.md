@@ -36,7 +36,12 @@ Kata-kata yang paling saya ingat dalam buku tersebut adalah
 Pada tahap ini saya sudah tidak mau lagi berharap sesuatu atau seseorang
 itu menjadi apa yang saya fikirkan, tapi kalo ada kesempatan yang bisa saya
 bantu untuk menjadikan sesuatu atau seseorang itu lebih baik ya saya coba
-bantu. Saya jadi teringat pepatah, saya sendiri lupa siapa yang mengatakannya
+bantu. Dengan begini, saya tidak lagi repot dengan kekecewaan, saya jadi lebih
+sadar tentang apa yang sebenarnya harus saya lakukan. Dan pastinya jadi lebih
+_less stress_.
+
+Kalo lagi ngomongin mencoba mengubah apa yang diluar kendali kita itu saya
+jadi teringat pepatah, saya sendiri lupa siapa yang mengatakannya
 yang jelas tokoh islam populer kalo tidak salah, pepatahnya seperti ini
 
 > Ketika remaja, saya berusaha mengubah dunia. Ketika dewasa saya berusaha
